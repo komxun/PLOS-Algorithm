@@ -27,6 +27,9 @@ The PLOS algorithm can be summarized below. This has been coded in the main whil
 
 https://github.com/komxun/PLOS-Algorithm/blob/05bcc621a2c89750954fc5bbcab71b15181f3c5a/PLOS_Straight.m#L44-L100
 
+![image](https://github.com/komxun/PLOS-Algorithm/assets/133139057/60d935f2-9cfb-4c8d-8779-7a0daaef6dec)
+
+
 # Result - PLOS Straight-Line
 |![PLOS_1line](https://github.com/komxun/PLOS-Algorithm/assets/133139057/7d10f785-53d0-4b31-afc2-f26a28c886c6)|
 |:--:|
